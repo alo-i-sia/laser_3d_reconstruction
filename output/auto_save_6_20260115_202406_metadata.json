@@ -1,0 +1,11 @@
+{
+  "filename": "output\\auto_save_6_20260115_202406.ply",
+  "format": "ply",
+  "timestamp": "2026-01-15T20:24:06.632453",
+  "total_points": 104781,
+  "frame_count": 22,
+  "final_points": 37764,
+  "downsample": true,
+  "voxel_size": 0.002,
+  "remove_outliers": true
+}

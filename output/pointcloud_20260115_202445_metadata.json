@@ -1,0 +1,11 @@
+{
+  "filename": "output\\pointcloud_20260115_202445.ply",
+  "format": "ply",
+  "timestamp": "2026-01-15T20:24:45.961677",
+  "total_points": 99811,
+  "frame_count": 21,
+  "final_points": 34578,
+  "downsample": true,
+  "voxel_size": 0.002,
+  "remove_outliers": true
+}
